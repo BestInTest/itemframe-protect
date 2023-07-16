@@ -1,0 +1,5 @@
+name: itemframe-protect
+version: 1.0
+author: BestInTest
+api-version: 1.19
+main: com.github.bestintest.Main
